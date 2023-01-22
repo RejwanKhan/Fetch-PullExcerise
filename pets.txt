@@ -1,5 +1,7 @@
 Rufus
 Fargo
+Jargo
+Bargo
 Waddles
 Tonki
 Pingdwae
